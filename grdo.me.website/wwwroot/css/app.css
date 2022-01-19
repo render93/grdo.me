@@ -4,9 +4,14 @@ html, body{
     font-family: 'JetBrains Mono', monospace;    
 }
 
+body{
+    background-color: #27282C;
+}
+
 #main{
     font-size: 3em;
     margin-top: 1em;
+    color: #ccc;
 }
 
 #blazor-error-ui {
